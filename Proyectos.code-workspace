@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "downloadYoutube"
+		},
+		{
+			"path": "sqlConnection"
 		}
 	]
 }
