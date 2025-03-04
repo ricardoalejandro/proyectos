@@ -1,0 +1,7 @@
+2025-02-23 00:08:11,563 - INFO - Iniciando proceso ETL
+2025-02-23 00:08:14,150 - INFO - Iniciando descarga del archivo 1 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3430&resid=826F6B2125AB2DBC!3430&ithint=file%2cxlsx&authkey=!AMe6w6XeJVpbfNI&wdo=2&cid=826f6b2125ab2dbc
+2025-02-23 00:08:17,063 - INFO - Archivo descargado exitosamente: C:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250223_000814\archivo_1_20250223_000814.xlsx
+2025-02-23 00:08:17,064 - INFO - Iniciando descarga del archivo 2 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3434&resid=826F6B2125AB2DBC!3434&ithint=file%2cxlsx&authkey=!AE276VQ_aiNrkeg&wdo=2&cid=826f6b2125ab2dbc
+2025-02-23 00:08:19,895 - INFO - Archivo descargado exitosamente: C:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250223_000814\archivo_2_20250223_000817.xlsx
+2025-02-23 00:08:19,896 - INFO - Se descargaron 2 archivos exitosamente
+2025-02-23 00:08:38,468 - INFO - Archivos procesados: 2

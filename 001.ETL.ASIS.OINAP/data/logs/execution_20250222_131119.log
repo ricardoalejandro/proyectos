@@ -1,0 +1,23 @@
+2025-02-22 13:11:19,946 - INFO - Iniciando proceso ETL
+2025-02-22 13:11:19,947 - INFO - Iniciando descarga del archivo 1 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3430&resid=826F6B2125AB2DBC!3430&ithint=file%2cxlsx&authkey=!AMe6w6XeJVpbfNI&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:23,263 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_1_20250222_131119.xlsx
+2025-02-22 13:11:23,264 - INFO - Iniciando descarga del archivo 2 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3434&resid=826F6B2125AB2DBC!3434&ithint=file%2cxlsx&authkey=!AE276VQ_aiNrkeg&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:27,136 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_2_20250222_131123.xlsx
+2025-02-22 13:11:27,138 - INFO - Iniciando descarga del archivo 3 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3427&resid=826F6B2125AB2DBC!3427&ithint=file%2cxlsx&authkey=!AOhgGxBr96RBlag&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:30,680 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_3_20250222_131127.xlsx
+2025-02-22 13:11:30,682 - INFO - Iniciando descarga del archivo 4 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3466&resid=826F6B2125AB2DBC!3466&ithint=file%2cxlsx&authkey=!AIsGdEdXhNcikQg&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:34,319 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_4_20250222_131130.xlsx
+2025-02-22 13:11:34,320 - INFO - Iniciando descarga del archivo 5 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3429&resid=826F6B2125AB2DBC!3429&ithint=file%2cxlsx&authkey=!AM58ldKGHlzsTf0&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:37,842 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_5_20250222_131134.xlsx
+2025-02-22 13:11:37,843 - INFO - Iniciando descarga del archivo 6 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3459&resid=826F6B2125AB2DBC!3459&ithint=file%2cxlsx&authkey=!ADKCni92ti2XPlA&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:41,058 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_6_20250222_131137.xlsx
+2025-02-22 13:11:41,059 - INFO - Iniciando descarga del archivo 7 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3464&resid=826F6B2125AB2DBC!3464&ithint=file%2cxlsx&authkey=!ADdGurw-BfrWfeA&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:44,553 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_7_20250222_131141.xlsx
+2025-02-22 13:11:44,554 - INFO - Iniciando descarga del archivo 8 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3594&resid=826F6B2125AB2DBC!3594&ithint=file%2cxlsx&authkey=!AFp4RJSOPHk5JkA&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:11:47,369 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_131119\archivo_8_20250222_131144.xlsx
+2025-02-22 13:11:47,370 - INFO - Se descargaron 8 archivos exitosamente
+2025-02-22 13:13:01,311 - INFO - Archivos procesados: 8
+2025-02-22 13:13:01,490 - INFO - Transformación completada. 8776 registros procesados de 8 filiales
+2025-02-22 13:13:01,490 - INFO - Transformación de datos completada
+2025-02-22 13:13:01,933 - INFO - Archivo consolidado actualizado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data/summary\consolidated.xlsx
+2025-02-22 13:13:01,933 - INFO - Proceso ETL completado exitosamente

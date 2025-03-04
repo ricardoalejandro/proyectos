@@ -1,0 +1,11 @@
+2025-02-22 12:56:15,465 - INFO - Iniciando proceso ETL
+2025-02-22 12:56:15,466 - INFO - Iniciando descarga del archivo 1 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3427&resid=826F6B2125AB2DBC!3427&ithint=file%2cxlsx&authkey=!AOhgGxBr96RBlag&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 12:56:18,745 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_125615\archivo_1_20250222_125615.xlsx
+2025-02-22 12:56:18,747 - INFO - Iniciando descarga del archivo 2 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3453&resid=826F6B2125AB2DBC!3453&ithint=file%2cxlsx&authkey=!AOzr7FmBrfss-6w&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 12:56:21,739 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_125615\archivo_2_20250222_125618.xlsx
+2025-02-22 12:56:21,740 - INFO - Se descargaron 2 archivos exitosamente
+2025-02-22 12:56:40,281 - INFO - Archivos procesados: 2
+2025-02-22 12:56:40,326 - INFO - Transformación completada. 2188 registros procesados de 2 filiales
+2025-02-22 12:56:40,326 - INFO - Transformación de datos completada
+2025-02-22 12:56:40,435 - INFO - Archivo consolidado actualizado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data/summary\consolidated.xlsx
+2025-02-22 12:56:40,435 - INFO - Proceso ETL completado exitosamente

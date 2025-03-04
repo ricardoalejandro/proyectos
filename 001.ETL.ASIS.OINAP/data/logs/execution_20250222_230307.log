@@ -1,0 +1,11 @@
+2025-02-22 23:03:07,383 - INFO - Iniciando proceso ETL
+2025-02-22 23:03:07,384 - INFO - Iniciando descarga del archivo 1 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3430&resid=826F6B2125AB2DBC!3430&ithint=file%2cxlsx&authkey=!AMe6w6XeJVpbfNI&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 23:03:10,638 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_230307\archivo_1_20250222_230307.xlsx
+2025-02-22 23:03:10,640 - INFO - Iniciando descarga del archivo 2 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3434&resid=826F6B2125AB2DBC!3434&ithint=file%2cxlsx&authkey=!AE276VQ_aiNrkeg&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 23:03:13,670 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_230307\archivo_2_20250222_230310.xlsx
+2025-02-22 23:03:13,671 - INFO - Se descargaron 2 archivos exitosamente
+2025-02-22 23:03:31,832 - INFO - Archivos procesados: 2
+2025-02-22 23:03:31,833 - INFO - Transformación completada. 10 registros procesados de 2 filiales
+2025-02-22 23:03:31,834 - INFO - Transformación de datos completada
+2025-02-22 23:03:31,861 - ERROR - Error al actualizar el archivo consolidado: [Errno 13] Permission denied: 'c:\\Users\\rrojacam\\Desktop\\proyectos\\001.ETL.ASIS.OINAP\\data/summary\\consolidated.xlsx'
+2025-02-22 23:03:31,861 - ERROR - Error durante la carga de datos

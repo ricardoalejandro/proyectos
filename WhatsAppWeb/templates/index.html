@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp Web Clone</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f2f5;
+        }
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        #qr-container {
+            margin: 20px 0;
+        }
+        .status {
+            margin-top: 1rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>WhatsApp Web Clone</h1>
+        <div id="qr-container">
+            <img id="qr-code" src="" alt="QR Code" style="display: none;">
+        </div>
+        <div class="status" id="status">
+            Generando código QR...
+        </div>
+    </div>
+
+    <script>
+        function fetchQR() {
+            fetch('/get-qr')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        document.getElementById('qr-code').src = data.qr;
+                        document.getElementById('qr-code').style.display = 'block';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('status').textContent = 'Error al generar QR';
+                });
+        }
+
+        function checkAuth() {
+            fetch('/check-auth')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'authenticated') {
+                        document.getElementById('qr-container').style.display = 'none';
+                        document.getElementById('status').textContent = '¡Conectado!';
+                        clearInterval(authCheckInterval);
+                    }
+                });
+        }
+
+        // Iniciar el proceso
+        fetchQR();
+        const authCheckInterval = setInterval(checkAuth, 5000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+2025-02-22 13:08:03,864 - INFO - Iniciando proceso ETL
+2025-02-22 13:08:03,864 - INFO - Iniciando descarga del archivo 1 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3430&resid=826F6B2125AB2DBC!3430&ithint=file%2cxlsx&authkey=!AMe6w6XeJVpbfNI&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:07,784 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_1_20250222_130803.xlsx
+2025-02-22 13:08:07,785 - INFO - Iniciando descarga del archivo 2 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3434&resid=826F6B2125AB2DBC!3434&ithint=file%2cxlsx&authkey=!AE276VQ_aiNrkeg&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:10,943 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_2_20250222_130807.xlsx
+2025-02-22 13:08:10,944 - INFO - Iniciando descarga del archivo 3 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3427&resid=826F6B2125AB2DBC!3427&ithint=file%2cxlsx&authkey=!AOhgGxBr96RBlag&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:14,196 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_3_20250222_130810.xlsx
+2025-02-22 13:08:14,198 - INFO - Iniciando descarga del archivo 4 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3466&resid=826F6B2125AB2DBC!3466&ithint=file%2cxlsx&authkey=!AIsGdEdXhNcikQg&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:17,797 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_4_20250222_130814.xlsx
+2025-02-22 13:08:17,798 - INFO - Iniciando descarga del archivo 5 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3429&resid=826F6B2125AB2DBC!3429&ithint=file%2cxlsx&authkey=!AM58ldKGHlzsTf0&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:21,529 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_5_20250222_130817.xlsx
+2025-02-22 13:08:21,530 - INFO - Iniciando descarga del archivo 6 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3459&resid=826F6B2125AB2DBC!3459&ithint=file%2cxlsx&authkey=!ADKCni92ti2XPlA&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:24,811 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_6_20250222_130821.xlsx
+2025-02-22 13:08:24,812 - INFO - Iniciando descarga del archivo 7 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3464&resid=826F6B2125AB2DBC!3464&ithint=file%2cxlsx&authkey=!ADdGurw-BfrWfeA&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:28,340 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_7_20250222_130824.xlsx
+2025-02-22 13:08:28,342 - INFO - Iniciando descarga del archivo 8 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3594&resid=826F6B2125AB2DBC!3594&ithint=file%2cxlsx&authkey=!AFp4RJSOPHk5JkA&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 13:08:31,723 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_8_20250222_130828.xlsx
+2025-02-22 13:08:31,725 - INFO - Se descargaron 8 archivos exitosamente
+2025-02-22 13:08:40,566 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_1_20250222_130803.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:08:40,566 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_1_20250222_130803.xlsx
+2025-02-22 13:08:49,985 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_2_20250222_130807.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:08:49,985 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_2_20250222_130807.xlsx
+2025-02-22 13:08:59,202 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_3_20250222_130810.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:08:59,202 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_3_20250222_130810.xlsx
+2025-02-22 13:09:08,710 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_4_20250222_130814.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:09:08,710 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_4_20250222_130814.xlsx
+2025-02-22 13:09:17,948 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_5_20250222_130817.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:09:17,948 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_5_20250222_130817.xlsx
+2025-02-22 13:09:27,381 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_6_20250222_130821.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:09:27,381 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_6_20250222_130821.xlsx
+2025-02-22 13:09:36,599 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_7_20250222_130824.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:09:36,599 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_7_20250222_130824.xlsx
+2025-02-22 13:09:45,742 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_8_20250222_130828.xlsx: La columna Y debería llamarse 'Semana' pero se encontró 'sem 01'
+2025-02-22 13:09:45,742 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_130803\archivo_8_20250222_130828.xlsx
+2025-02-22 13:09:45,743 - INFO - Archivos procesados: 0
+2025-02-22 13:09:45,743 - ERROR - No hay datos para procesar
+2025-02-22 13:09:45,743 - INFO - Transformación de datos completada
+2025-02-22 13:09:45,744 - ERROR - No hay datos para escribir
+2025-02-22 13:09:45,744 - ERROR - Error durante la carga de datos

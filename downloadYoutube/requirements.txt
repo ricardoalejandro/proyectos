@@ -1,0 +1,2 @@
+yt-dlp>=2023.3.4
+# tkinter generalmente viene preinstalado con Python, pero lo listamos por completitud

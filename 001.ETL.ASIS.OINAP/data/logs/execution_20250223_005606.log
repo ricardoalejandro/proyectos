@@ -1,0 +1,13 @@
+2025-02-23 00:56:06,194 - INFO - Iniciando proceso ETL
+2025-02-23 00:56:06,198 - INFO - Iniciando descarga del archivo 1 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3430&resid=826F6B2125AB2DBC!3430&ithint=file%2cxlsx&authkey=!AMe6w6XeJVpbfNI&wdo=2&cid=826f6b2125ab2dbc
+2025-02-23 00:56:09,169 - INFO - Archivo descargado exitosamente como: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250223_005606\temp_1_20250223_005606.xlsx
+2025-02-23 00:56:09,170 - INFO - Iniciando descarga del archivo 2 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3434&resid=826F6B2125AB2DBC!3434&ithint=file%2cxlsx&authkey=!AE276VQ_aiNrkeg&wdo=2&cid=826f6b2125ab2dbc
+2025-02-23 00:56:12,115 - INFO - Archivo descargado exitosamente como: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250223_005606\temp_2_20250223_005609.xlsx
+2025-02-23 00:56:12,117 - INFO - Se descargaron 2 archivos exitosamente
+2025-02-23 00:56:20,995 - INFO - Archivo renombrado para filial Juliaca: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250223_005606\archivo_juliaca_1_20250223_005620.xlsx
+2025-02-23 00:56:30,247 - INFO - Archivo renombrado para filial Huaraz: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250223_005606\archivo_huaraz_2_20250223_005630.xlsx
+2025-02-23 00:56:30,287 - INFO - Archivos procesados: 2
+2025-02-23 00:56:30,288 - INFO - Transformación completada. 10 registros procesados de 2 filiales
+2025-02-23 00:56:30,289 - INFO - Transformación de datos completada
+2025-02-23 00:56:30,311 - INFO - Nuevo archivo consolidado creado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data/summary\consolidated_20250223_005630.xlsx
+2025-02-23 00:56:30,311 - INFO - Proceso ETL completado exitosamente

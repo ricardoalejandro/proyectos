@@ -1,0 +1,6 @@
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\publish\Csharp.exe
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\publish\Csharp.dll
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\publish\Csharp.deps.json
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\publish\Csharp.runtimeconfig.json
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\publish\Csharp.pdb
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\publish\Newtonsoft.Json.dll

@@ -1,0 +1,17 @@
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\Csharp.exe
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\Csharp.deps.json
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\Csharp.runtimeconfig.json
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\Csharp.dll
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\Csharp.pdb
+C:\Users\rrojacam\Desktop\proyectos\Csharp\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.csproj.AssemblyReference.cache
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.AssemblyInfoInputs.cache
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.AssemblyInfo.cs
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.csproj.Up2Date
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.dll
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\refint\Csharp.dll
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.pdb
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\Csharp.genruntimeconfig.cache
+C:\Users\rrojacam\Desktop\proyectos\Csharp\obj\Release\net8.0\win-x64\ref\Csharp.dll

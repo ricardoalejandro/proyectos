@@ -1,0 +1,10 @@
+2025-02-22 01:31:39,100 - INFO - Iniciando proceso ETL
+2025-02-22 01:31:39,101 - INFO - Iniciando descarga del archivo 1 desde: https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3460&resid=826F6B2125AB2DBC!3460&ithint=file%2cxlsx&authkey=!AMEy8NblSUqvrKA&wdo=2&cid=826f6b2125ab2dbc
+2025-02-22 01:31:42,435 - INFO - Archivo descargado exitosamente: c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_013139\archivo_1_20250222_013139.xlsx
+2025-02-22 01:31:51,544 - ERROR - Error de validación en c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_013139\archivo_1_20250222_013139.xlsx: La columna P debería llamarse 'Tipo Inscrito' pero se encontró 'Tipo Incrito'
+2025-02-22 01:31:51,547 - ERROR - No se pudo extraer datos del archivo c:\Users\rrojacam\Desktop\proyectos\001.ETL.ASIS.OINAP\data\downloads\execution_20250222_013139\archivo_1_20250222_013139.xlsx
+2025-02-22 01:31:51,548 - INFO - Archivos descargados: 0
+2025-02-22 01:31:51,548 - ERROR - No hay datos para procesar
+2025-02-22 01:31:51,548 - INFO - Transformación de datos completada
+2025-02-22 01:31:51,549 - ERROR - No hay datos para escribir
+2025-02-22 01:31:51,549 - ERROR - Error durante la carga de datos

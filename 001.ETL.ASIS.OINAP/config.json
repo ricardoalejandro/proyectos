@@ -1,0 +1,52 @@
+{
+    "paths": {
+        "data_dir": "data",
+        "downloads_dir": "data/downloads",
+        "logs_dir": "data/logs",
+        "summary_dir": "data/summary"
+    },
+    "excel_urls": [
+        "https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3430&resid=826F6B2125AB2DBC!3430&ithint=file%2cxlsx&authkey=!AMe6w6XeJVpbfNI&wdo=2&cid=826f6b2125ab2dbc",
+		"https://onedrive.live.com/edit?id=826F6B2125AB2DBC!3434&resid=826F6B2125AB2DBC!3434&ithint=file%2cxlsx&authkey=!AE276VQ_aiNrkeg&wdo=2&cid=826f6b2125ab2dbc"		
+    ],
+    "formats": {
+        "timestamp": "%Y%m%d_%H%M%S"
+    },
+    "files": {
+        "consolidated_filename": "consolidated.xlsx"
+    },
+    "logging": {
+        "format": "%(asctime)s - %(levelname)s - %(message)s",
+        "level": "INFO"
+    },
+    "excel": {
+        "chunk_size": 8192,
+        "structure": {
+            "sheet_name": "Probacionistas",
+            "filial_cell": "B1",
+            "header_row": 3,
+            "columns": {				
+                "mes": {
+                    "column": "C",
+                    "expected_name": "Mes Inscrito"
+                },
+                "diaclase": {
+                    "column": "D",
+                    "expected_name": "Dia de clases Inscrito"
+                },
+                "fechainicio": {
+                    "column": "F",
+                    "expected_name": "Fecha Inicio grupo"
+                },
+                "grupo": {
+                    "column": "O",
+                    "expected_name": "Grupo"
+                },
+                "tipoinscrito": {
+                    "column": "P",
+                    "expected_name": "Tipo Incrito"
+                }
+            }
+        }
+    }
+}
