@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "sqlConnection"
+		},
+		{
+			"path": "Reporteador"
 		}
 	]
 }
