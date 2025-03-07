@@ -11,7 +11,9 @@
 		},
 		{
 			"path": "Reporteador"
-			
+		},
+		{
+			"path": "JiraManagement"
 		}
 	]
 }
